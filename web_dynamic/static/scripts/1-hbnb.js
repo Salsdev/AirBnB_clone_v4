@@ -9,4 +9,3 @@ document.ready(function () {
 		$(".amenities h4").text(Object.keys(amenities).sort().join(", "));
 	});
 });
-

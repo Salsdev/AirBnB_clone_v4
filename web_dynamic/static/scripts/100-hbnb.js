@@ -81,4 +81,3 @@ document.ready(function () {
 	$(".filters button").bind("click", searchPlace);
 	searchPlace();
 });
-
